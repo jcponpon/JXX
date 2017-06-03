@@ -1,0 +1,14 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background-image:
+url(https://coding-days.com/wp-content/uploads/2017/01/background_white.png);
+background-size: cover;
+color: #71344c;
+}
+header {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    header img {
+    height: 300px;
+}
